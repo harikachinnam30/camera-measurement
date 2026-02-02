@@ -1,0 +1,4 @@
+image,ref_w_mm,ref_h_mm,obj_w_mm,obj_h_mm
+.\data\test_images\test1.jpg,1170.0,1920.0,888.51,1191.34
+.\data\test_images\validation.jpg,1170.0,1920.0,890.32,1193.13
+.\data\test_images\validation.jpg,500.0,500.0,648.17,846.82
